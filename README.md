@@ -73,7 +73,7 @@ Ao lado das informações escrevi nas células a quantidade de anos, de acordo c
 
 ![image](https://github.com/user-attachments/assets/556d5e47-63b4-456f-a7ab-7b3002141861)
 
-Para que apareça corretamente os valores de **patrimônio acumulado de acordo com os anos pré-configurados**, reutilizei a fórmula VF, que possui os parâmetros **taxa**, **nper** (quantidade de anos de investimento) e **pgto** (quantia que deseja investir por mês. Aplicando a fórmula VF nos cenários, fica da seguinte forma:
+Para que apareça corretamente os valores de **patrimônio acumulado de acordo com os anos pré-configurados**, reutilizei a fórmula VF, que possui os parâmetros **taxa**, **nper** (quantidade de anos de investimento) e **pgto** (quantia que deseja investir por mês). Aplicando a fórmula VF nos cenários, fica da seguinte forma:
 
 **Taxa:** A célula que representa a taxa de rendimento do negócio, localizada na planilha de simulação
 
