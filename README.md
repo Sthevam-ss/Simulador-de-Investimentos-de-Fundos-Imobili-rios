@@ -15,6 +15,7 @@ Para saber o **patrim么nio acumulado**, foi necess谩rio utilizar a f贸rmula **鈥
 ## Aplicando a f贸rmula VF para descobrir o patrim么nio acumulado
 
 No canto esquerdo da ferramenta, utilizei um **apoio** para fazer o uso da f贸rmula.
+
 ![image](https://github.com/user-attachments/assets/c0249965-6220-408a-ac99-d5a1ef4540a3)
 
 
