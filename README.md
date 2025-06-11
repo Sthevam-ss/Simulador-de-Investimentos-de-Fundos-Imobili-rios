@@ -85,6 +85,94 @@ Os dividendos mensais são descobertos de forma fácil, bastando apenas multipli
 
 ![image](https://github.com/user-attachments/assets/d9cc2add-d572-4a80-9c5e-e12d8f5b01c3)
 
+## Construção do Layout da Ferramenta
+
+1° Passo: Alterar toda a cor da planilha para a segunda tonalidade de branco
+
+![image](https://github.com/user-attachments/assets/1a0d8ea1-9cb1-446f-ba1a-2e732245c5fc)
+
+
+2° Passo: Selecionar a área que deseja construir o layout e em seguida, segurando as teclas do teclado CTRL + 1, indo na aba borda, selecionar a opção contorno e clicar em ok. É necessário também alterar a cor de fundo da área como branco.
+
+![image](https://github.com/user-attachments/assets/6add4f7f-ef0b-48c6-940f-4a13926ce5f3)
+
+![image](https://github.com/user-attachments/assets/da58c643-8c93-4384-bc6e-44eb19cd77e4)
+
+3° Passo: A maior parte dos elementos que utilizei no layout do simulador, foi utilizada a forma retângulo: canto arredondado. Que pode ser encontrado facilmente na guia inserir e em seguida na opção formas. E com isso, apenas modifiquei as cores e os textos deles para a construção dos menus de navegação e título.
+
+![image](https://github.com/user-attachments/assets/eb2014f9-52da-4d38-969b-da5503ae4d42)
+
+![image](https://github.com/user-attachments/assets/dd922893-ca60-4d77-96ab-99f56c062541)
+
+No meio do Layout, apenas escrevi em negrito os títulos das informações e usei um cinza mais escuro para os campos que o investidor precisa preencher. Ao lado de cada campo, apenas utilizei um retângulo de cantos arredondados com tamanho menor, para dar destaque. Inclusive, esses retângulos também foram utilizados como base para a criação da logo do projeto.
+
+![image](https://github.com/user-attachments/assets/913aaf43-c414-46f3-86ad-448a036362be)
+
+Foram utilizadas caixa de texto para a construção do nome do simulador e também do título principal do layout. A caixa de texto pode ser encontrada facilmente na aba inserir. Lembrando que é necessário retirar o contorno e o fundo, para que fique amostra somente os textos.
+
+![image](https://github.com/user-attachments/assets/fe591e93-04df-4a3f-b62e-53d8260b40c4)
+
+As informações numéricas que aparecem nos retângulos de cantos arredondados, também são caixas de texto. A diferença, é que elas refereciam os valores obtidos através da fórmula VF, em relação ao patrimônio acumulado, dividendos mensais e rendimento da carteira.
+Pra fazer isso, basta apenas clicar em cima do texto que desejar e em seguida na barra de fórmulas, usar o símbolo de igual (=) e em seguida a célula que consta a informação que deseja mostrar. No exemplo abaixo, mostra a célula que possui o valor do patrimônio acumulado, neste caso a célula A23.
+
+![image](https://github.com/user-attachments/assets/1a934dad-7390-4894-873d-19fc699a1011)
+
+Os ícones podem ser facilmente encontrados na guia inserir. E basta apenas pesquisar o tipo de ícone que desejar e clicar em inserir. Eles podem ser formatados da forma que quiser, da mesma forma que são formatados as formas retângulares encontradas no layout.
+
+![image](https://github.com/user-attachments/assets/2bc97d88-f533-4483-9ae8-6089602e988f)
+
+Depois de ter inserido todas essas informações, foi necessário agrupar para que todas as formas, ícones e caixa de texto, se tornassem um objeto só. Selecionando cada uma das informações com a tecla CTRL do teclado, basta apenas clicar com o botão direito após as seleções e clicar em agrupar. Foi necessário fazer isso para todos os outros retângulos de cantos arrendondados separadamente, para todos se agruparem e se tornarem apenas um objeto.
+
+![image](https://github.com/user-attachments/assets/ab653d90-01ca-4899-8a98-1be7dd4afd2f)
+
+## Navegação
+
+Para criar múltiplas planilhas e ter como navegar entre elas através dos botões de menu, foi necessário apenas criar uma cópia da planilha atual de simulação e criar hyperlinks que fornecem ação a esses botões.
+
+1° Passo: Para copiar a planilha atual, basta apenas clicar com o botão direito do mouse em cima dela, clicar na opção "mover ou copiar" e depois selecionar "criar uma cópia" e clicar em OK.
+
+![image](https://github.com/user-attachments/assets/01389b89-35c8-4e5f-9a3d-b7c8d8a2d635)
+![image](https://github.com/user-attachments/assets/6a40f8b6-62eb-4021-8747-e198b94e170d)
+
+2° Passo: Agora, com a planilha copiada, apenas foi apagado as informações da cópia e construído toda a estrutura dos cenários de investimentos, como foi explicado no começo desta documentação.
+
+3° Passo: Para que os botões tenham ações, é necessário adicionar hyperlinks, para que quando um botão for selecionado, ele direcione para planilha que desejar.
+
+Para isso, na planilha de simulação, basta clicar com o botão direito sobre "cenários", clicar em "links", "colocar neste documento" e selecionar a planilha de cenários e em seguida clicar em OK.
+
+![image](https://github.com/user-attachments/assets/7dcabc8f-6ada-4b53-807a-5ddb54eb491d)
+![image](https://github.com/user-attachments/assets/2f01988f-6659-445c-bda4-dcf57924e076)
+
+Na planilha de cenários, fazer o mesmo passo a passo, mas aplicando no botão simulação e vinculando a planilha de simulação.
+
+![image](https://github.com/user-attachments/assets/b3511653-c596-4591-9274-d1074be57934)
+![image](https://github.com/user-attachments/assets/0e1fa1ab-9b2b-475a-a033-be8559f430a9)
+
+Assim, ao clicar nos botões, terá o efeito de menu onde cada botão te levará a planilhas diferentes.
+
+Além dessas planilhas, criei uma planilha como tela inicial to
+
+![image](https://github.com/user-attachments/assets/10d5da7d-a4c3-4668-a99d-36da4319400c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
