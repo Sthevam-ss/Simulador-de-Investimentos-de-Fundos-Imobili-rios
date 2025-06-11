@@ -123,7 +123,7 @@ Foram utilizadas **caixas de texto para a construção do nome do simulador e ta
 ![image](https://github.com/user-attachments/assets/fe591e93-04df-4a3f-b62e-53d8260b40c4)
 
 **As informações numéricas** que aparecem nos **retângulos de cantos arredondados**, também são caixas de texto. A diferença, é que elas refereciam os valores obtidos através da **fórmula VF**, em relação ao **patrimônio acumulado**, **dividendos mensais e rendimento da carteira**.
-Pra fazer isso, basta apenas **clicar em cima do texto que desejar** e em seguida na barra de fórmulas, usar o **símbolo de igual (=)** e em seguida a **célula que consta a informação que deseja mostrar**. No exemplo abaixo, mostra a célula que possui o **valor do patrimônio acumulado**, neste caso a **célula A23**.
+Pra fazer isso, basta apenas **clicar em cima do texto que desejar** e em seguida na **barra de fórmulas**, usar o **símbolo de igual (=)** e em seguida a **célula que consta a informação que deseja mostrar**. No exemplo abaixo, mostra a célula que possui o **valor do patrimônio acumulado**, neste caso a **célula A23**.
 
 ![image](https://github.com/user-attachments/assets/1a934dad-7390-4894-873d-19fc699a1011)
 
