@@ -150,9 +150,42 @@ Na planilha de cenários, fazer o mesmo passo a passo, mas aplicando no botão s
 
 Assim, ao clicar nos botões, terá o efeito de menu onde cada botão te levará a planilhas diferentes.
 
-Além dessas planilhas, criei uma planilha como tela inicial to
+Além dessas planilhas, criei uma planilha como tela inicial, efetuando todos os passos anteriores de hyperlinks, caixa de texto e retângulos com cantos arredondados. O ícone de casa apresentado nas demais planilhas, com o hyperlink configurado, levam diretamente a essa tela inicial. E com todos esses conhecimentos aplicados, o projeto de simulador de fundos imobiliários foi concluído.
 
+## Tela Inicial
 ![image](https://github.com/user-attachments/assets/10d5da7d-a4c3-4668-a99d-36da4319400c)
+
+## Tela de Simulação
+
+![image](https://github.com/user-attachments/assets/8df4c9a1-d523-4223-9932-8a013700ce78)
+
+## Tela de Cenários
+
+![image](https://github.com/user-attachments/assets/d53e9484-38a1-4b33-bc73-8f05caf6e6bf)
+
+O último detalhe, é que para a planilha ficar com um visual de sistema, foi necessário ir até a guia **exibir** e desabilitar as seguintes opções: **Linhas de Grade**, **Barra de Fórmulas** e **Títulos**. Além de utilizar a combinação de teclas CTRL + F1, para habilitar o modo tela cheia.
+
+![image](https://github.com/user-attachments/assets/908ed834-256c-424b-a71f-75bea11ca71c)
+
+## Projeto com todas as opções habilitadas
+
+![image](https://github.com/user-attachments/assets/0fa470b5-e380-4a31-a147-2bc27dbb3de2)
+
+
+## Projeto com todas as opções desabilitadas
+
+![image](https://github.com/user-attachments/assets/c4f99a81-faf0-4c6f-9855-c8889d8fbaf8)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
