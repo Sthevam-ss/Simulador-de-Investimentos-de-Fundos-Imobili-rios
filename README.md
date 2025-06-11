@@ -32,12 +32,14 @@ Tendo feito essas alterações, para descobrir o **patrimônio acumulado**, util
 
 
 **Nper:** Quantidade em anos que o investidor deseja investir
+
 **Observação:** No parâmetro da fórmula, a célula em que está a quantidade de anos, tem que ser multiplicada por 12.
 
 ![image](https://github.com/user-attachments/assets/44a45252-6c22-43e0-9c79-3a3e3bc99ac0)
 
 
 **Pgto:** Quanto o investidor deseja investir por mês
+
 **Observação:** No parâmetro da fórmula, a célula em que está a quantia para investir por mês, deve ser multiplicado por -1, para o valor final da fórmula ser positivo.
 
 ![image](https://github.com/user-attachments/assets/23ca3c41-6d98-4e33-99c0-8243eb4d1115)
