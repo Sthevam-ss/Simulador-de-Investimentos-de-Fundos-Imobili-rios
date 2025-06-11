@@ -173,7 +173,7 @@ Além dessas planilhas, criei uma planilha como **tela inicial**, efetuando todo
 
 ![image](https://github.com/user-attachments/assets/d53e9484-38a1-4b33-bc73-8f05caf6e6bf)
 
-O último detalhe, é que para a **planilha ficar com um visual de sistema**, foi necessário ir até a **guia exibir** e **desabilitar **as seguintes opções: **Linhas de Grade**, **Barra de Fórmulas** e **Títulos**. Além de utilizar a **combinação de teclas CTRL + F1, para habilitar o modo tela cheia.**
+O último detalhe, é que para a **planilha ficar com um visual de sistema**, foi necessário ir até a **guia exibir** e **desabilitar** as seguintes opções: **Linhas de Grade**, **Barra de Fórmulas** e **Títulos**. Além de utilizar a **combinação de teclas CTRL + F1, para habilitar o modo tela cheia.**
 
 ![image](https://github.com/user-attachments/assets/908ed834-256c-424b-a71f-75bea11ca71c)
 
