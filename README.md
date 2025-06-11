@@ -102,7 +102,7 @@ Os dividendos mensais são descobertos de forma fácil, bastando apenas **multip
 ![image](https://github.com/user-attachments/assets/1a0d8ea1-9cb1-446f-ba1a-2e732245c5fc)
 
 
-**2° Passo:** Selecionei a área que desejei construir o layout e em seguida, segurando as teclas do teclado CTRL + 1, indo na aba borda, selecionei a opção contorno e cliquei em ok. Foi necessário também alterar a cor de fundo da área como branco.
+**2° Passo:** Selecionei a área que desejei construir o layout e em seguida, segurando as teclas do teclado CTRL + 1, indo na **aba borda**, selecionei a **opção contorno** e **cliquei em ok**. Foi necessário também **alterar a cor de fundo da área como branco.**
 
 ![image](https://github.com/user-attachments/assets/6add4f7f-ef0b-48c6-940f-4a13926ce5f3)
 
